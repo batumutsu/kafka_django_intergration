@@ -28,6 +28,8 @@ Temporary Items
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
+management/
+migrations/
 
 # C extensions
 *.so
